@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @src1903
-- 👀 I’m interested in Python and Html 
-- 🌱 I’m currently learning Python and Html
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning Javascript and Javascript's Frameworks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
