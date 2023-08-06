@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and Javascript's Frameworks.
 - 💞️ I’m looking to collaborate on Javascript and Angular
 - 📫 How to reach me
-- sercanerkaya.com
+- https://www.sercanerkaya.com/
 - https://www.linkedin.com/in/sercanerkaya/
 
 <!---
