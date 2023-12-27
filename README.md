@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @src1903
+- 👋 Hi, I’m Sercan Erkaya @src1903
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Javascript and Javascript's Frameworks.
 - 💞️ I’m looking to collaborate on Javascript and Angular
